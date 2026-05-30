@@ -15,3 +15,13 @@ A desktop application built in Java to help administrators manage school operati
 
 ## 👨‍💻 Developer
 Developed by Sahaknit for the ETEC Final Project.
+
+## 🛠️ How to Run
+1. Ensure you have **Java 17 or higher** installed on your system.
+2. Download the `dist` folder from this repository.
+3. Open your terminal or command prompt in that folder.
+4. Run the following command:
+   `java -jar SchoolManagement.jar`
+5. Login with the default credentials:
+   * **Username:** admin
+   * **Password:** 123
